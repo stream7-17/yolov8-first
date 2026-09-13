@@ -18,3 +18,4 @@ Tested on the official bus.jpg sample:
 conda activate dl
 yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
 \`\`\`
+- Environment verified: PyTorch 2.5.1+cu121, CUDA ✅, GTX 1650 Ti (2026-09-13)
